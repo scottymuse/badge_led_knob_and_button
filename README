@@ -1,0 +1,5 @@
+Another project for the SAINTCon 2014 badge.
+
+This program controls the blinking pattern of the LEDs around the nameplate
+using timing interrupts. I've added a 10K potentiometer connect to A1 to control
+the speed the pattern runs at, and a push button triggering an interrupt on D1.
